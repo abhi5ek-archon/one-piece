@@ -1,0 +1,24 @@
+h2{
+    text-align: center;
+    color: brown;
+    background-color: black;
+    /* border: 2px dotted red; */
+
+}
+h3{
+text-align: left;
+
+}
+h4{
+    text-decoration: dotted;
+}
+img{
+    width: 700px;
+    height: 900 px;
+}
+.fclass{
+    background-color: aquamarine;
+    border: 2px solid green;
+    margin: 40px 20px;
+   padding: 45px 20px; 
+}    
